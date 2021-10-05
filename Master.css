@@ -1,0 +1,30 @@
+/* Selector {
+    Property: value;
+    Property2: value
+} */
+
+/* header {
+    color: red;
+    font-size: medium;
+} */
+
+.topbar-shape {
+    color: green;
+    background-color: darkkhaki;
+
+}
+
+p{
+    color: #00cc66 , #99ccff
+    background-attachment: fixed;
+    background-size: contain;
+    background-image: url(../Asset/Images/Images\ for\ website/national-cancer-institute-XknuBmnjbKg-unsplash.jpg);
+}
+
+div {
+    border: darkkhaki;
+}
+
+.navbar {
+    background-image: url(" website/E:\My_learning_project(FrontEnd)\Asset\Images\Images for website\national-cancer-institute-XknuBmnjbKg-unsplash.jpg");
+}
